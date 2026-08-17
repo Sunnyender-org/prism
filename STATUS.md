@@ -1,6 +1,7 @@
 # STATUS
 
 - 本线程只做 Prism 内核。网站归 BF Labs 另一线程。
+- 公开仓库：https://github.com/Sunnyender-org/prism （Apache-2.0）
 - 阶段 1 夹具：20/20，`python3 scripts/prism.py check` PASS，`python3 -m unittest tests.test_prism` PASS
 - 演示：`evals/demo-script.md` + `vault/demo-cards.jsonl`
 - 难图：8/8 已齐，见 `evals/hard-set.md`
