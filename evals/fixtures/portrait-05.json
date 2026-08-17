@@ -1,0 +1,18 @@
+{
+  "type": "portrait",
+  "fields": {
+    "image_type": "竖版 9:16 暗调特写",
+    "frame_carrier": "电影机浅景深，肩以上",
+    "core_style_contract": "低调照明肖像，皮肤有毛孔，气氛压抑",
+    "face_archetype": "中年男性，法令纹可见，目光避开镜头",
+    "face_shape": "方下颌，短须",
+    "eye_design": "深眼窝，高光只剩一条",
+    "body_silhouette": "厚肩，领口松开",
+    "pose_expression": "头微侧，下颌压低",
+    "clothing_material": "深海军西装羊毛，领口起球",
+    "lighting_color": "右侧窄光，背景接近黑",
+    "clarity_occlusion": "近侧颧骨最锐，远侧眼落入阴影",
+    "face_negative_constraints": "避免年轻化、美颜、微笑棚拍",
+    "dynamic_negative_constraints": "避免彩色渐变背景、时尚大片笑容、全身"
+  }
+}

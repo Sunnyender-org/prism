@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "required_per_type": 5,
+  "counts": {
+    "portrait": 5,
+    "poster": 5,
+    "product": 5,
+    "illustration": 5
+  },
+  "hard_set_target": 8,
+  "hard_set_collected": 8,
+  "hard_set_status": "complete",
+  "hard_set_review": "8/8 compiled; 7 pass + 1 pass-with-note; no generation blind test"
+}

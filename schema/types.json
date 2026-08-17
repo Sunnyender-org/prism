@@ -1,0 +1,122 @@
+{
+  "types": [
+    {
+      "id": "portrait",
+      "zh": "人像摄影",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "face_archetype",
+        "face_shape",
+        "eye_design",
+        "body_silhouette",
+        "pose_expression",
+        "clothing_material",
+        "lighting_color",
+        "clarity_occlusion",
+        "face_negative_constraints",
+        "dynamic_negative_constraints"
+      ]
+    },
+    {
+      "id": "poster",
+      "zh": "海报 / 版式",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "brand_mood",
+        "typography",
+        "composition_rhythm",
+        "color_system",
+        "clarity_occlusion",
+        "dynamic_negative_constraints"
+      ]
+    },
+    {
+      "id": "product",
+      "zh": "产品图",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "subject_identity",
+        "material_print",
+        "brand_mood",
+        "lighting_color",
+        "color_system",
+        "dynamic_negative_constraints"
+      ]
+    },
+    {
+      "id": "illustration",
+      "zh": "插画 / 动漫",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "face_archetype",
+        "eye_design",
+        "line_brush",
+        "clothing_material",
+        "lighting_color",
+        "face_negative_constraints",
+        "dynamic_negative_constraints"
+      ]
+    },
+    {
+      "id": "scene",
+      "zh": "场景 / 山水",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "composition_rhythm",
+        "subject_identity",
+        "line_brush",
+        "lighting_color",
+        "color_system",
+        "clarity_occlusion",
+        "dynamic_negative_constraints"
+      ]
+    },
+    {
+      "id": "generic",
+      "zh": "通用",
+      "fields": [
+        "image_type",
+        "frame_carrier",
+        "core_style_contract",
+        "composition_rhythm",
+        "lighting_color",
+        "color_system",
+        "clarity_occlusion",
+        "dynamic_negative_constraints"
+      ]
+    }
+  ],
+  "field_labels": {
+    "image_type": "图像类型",
+    "frame_carrier": "画幅与载体",
+    "core_style_contract": "核心风格合约",
+    "face_archetype": "脸部风格锁定",
+    "face_shape": "脸型 / 面部线条",
+    "eye_design": "眼型 / 瞳孔",
+    "body_silhouette": "身形轮廓",
+    "pose_expression": "动作 / 姿态",
+    "clothing_material": "服装材质",
+    "lighting_color": "光线与色彩",
+    "clarity_occlusion": "清晰度 / 遮挡地图",
+    "face_negative_constraints": "脸部负面约束",
+    "dynamic_negative_constraints": "动态负向约束",
+    "brand_mood": "品牌 / 情绪",
+    "typography": "字体 / 文字层级",
+    "composition_rhythm": "构图节奏",
+    "color_system": "色彩系统",
+    "subject_identity": "产品主体",
+    "material_print": "材质 / 印刷感",
+    "line_brush": "画风 / 笔触"
+  }
+}
+

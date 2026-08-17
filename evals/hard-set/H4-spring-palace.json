@@ -1,0 +1,16 @@
+{
+  "type": "scene",
+  "source_image": "evals/hard-set/H4-spring-palace.png",
+  "fields": {
+    "image_type": "超宽横幅宫廷山水，约 16:9",
+    "frame_carrier": "数字绘画电影宽银幕静帧，厚空气透视和体积雾，不是工笔手卷或浅绛册页",
+    "core_style_contract": "春日宫苑：重檐朱红宫殿沉在樱花雾里，人物只作点景。最多一方小印，禁止左右长篇假字题跋",
+    "composition_rhythm": "近水舟桥、中层台基宫门、远层主殿与右侧高塔；樱枝从左上垂入构图",
+    "subject_identity": "点景文人、仆从、渡船、石桥上的白衣人，体量远小于建筑",
+    "line_brush": "屋脊用细界画线，树冠用湿染，远塔融进雾",
+    "lighting_color": "薄云天光，宫殿受光偏暖，阴影青灰",
+    "color_system": "朱红柱、黛瓦、粉白樱、湖水绿，整体低饱和高空气透视",
+    "clarity_occlusion": "中景主殿屋脊最清，远塔和人群弱；不要发明可读书法全文",
+    "dynamic_negative_constraints": "避免现代城市、航拍照片、把人物放大成主角、去掉雾和樱花、做成游戏写实关卡、工笔手卷、青绿说明书、左右长题跋"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-16",
+  "provider": "beefapi",
+  "base": "https://beefapi.com/v1",
+  "model": "gpt-image-2",
+  "quality": "medium",
+  "n": 1,
+  "dir": "evals/renders",
+  "v1_scores": {
+    "pass": 3,
+    "pass_with_note": 4,
+    "fail": 1,
+    "usable": 7
+  },
+  "v2_best_of_scores": {
+    "pass": 5,
+    "pass_with_note": 3,
+    "fail": 0,
+    "usable": 8
+  },
+  "best_of_scores": {
+    "pass": 6,
+    "pass_with_note": 2,
+    "fail": 0,
+    "usable": 8
+  },
+  "preferred": [
+    "H1-duo-night-v2.png",
+    "H2-brand-cows-v2.png",
+    "H3-elevator-pose.png",
+    "H4-spring-palace-v2.png",
+    "H5-mist-palace-v3.png",
+    "H6-type-poster.png",
+    "H7-cloud-water-v2.png",
+    "H8-cel-face-v2.png"
+  ],
+  "renders": [
+    {"id": "H1-duo-night", "type": "portrait", "size": "1024x1536", "score": "pass-with-note"},
+    {"id": "H1-duo-night-v2", "type": "portrait", "size": "1024x1536", "score": "pass"},
+    {"id": "H2-brand-cows", "type": "illustration", "size": "1536x1024", "score": "pass-with-note"},
+    {"id": "H2-brand-cows-v2", "type": "illustration", "size": "1536x1024", "score": "pass-with-note"},
+    {"id": "H3-elevator-pose", "type": "portrait", "size": "1024x1536", "score": "pass"},
+    {"id": "H4-spring-palace", "type": "scene", "size": "1536x1024", "score": "pass-with-note"},
+    {"id": "H4-spring-palace-v2", "type": "scene", "size": "1536x1024", "score": "pass"},
+    {"id": "H5-mist-palace", "type": "scene", "size": "1536x1024", "score": "pass"},
+    {"id": "H5-mist-palace-v2", "type": "scene", "size": "1536x1024", "score": "pass-with-note"},
+    {"id": "H5-mist-palace-v3", "type": "scene", "size": "1536x1024", "score": "pass"},
+    {"id": "H6-type-poster", "type": "poster", "size": "1024x1536", "score": "pass"},
+    {"id": "H7-cloud-water", "type": "product", "size": "1024x1536", "score": "fail"},
+    {"id": "H7-cloud-water-v2", "type": "product", "size": "1024x1536", "score": "pass"},
+    {"id": "H8-cel-face", "type": "illustration", "size": "1024x1536", "score": "pass-with-note"},
+    {"id": "H8-cel-face-v2", "type": "illustration", "size": "1024x1536", "score": "pass-with-note"}
+  ]
+}

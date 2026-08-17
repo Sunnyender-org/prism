@@ -1,0 +1,15 @@
+{
+  "type": "illustration",
+  "fields": {
+    "image_type": "竖版水墨插画",
+    "frame_carrier": "宣纸肌理扫描",
+    "core_style_contract": "工笔淡彩，留白多，不是厚涂油画",
+    "face_archetype": "侧面仕女，五官简笔但成年比例",
+    "eye_design": "细眼无高光星星",
+    "line_brush": "中锋游丝描，墨色分干湿",
+    "clothing_material": "薄纱层叠，墨色晕开衣纹",
+    "lighting_color": "无明确光源，靠墨阶",
+    "face_negative_constraints": "避免日系大眼、腮红网红妆",
+    "dynamic_negative_constraints": "避免全景写实摄影、3D 国风游戏立绘、满铺金箔"
+  }
+}

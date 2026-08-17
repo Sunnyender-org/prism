@@ -1,0 +1,14 @@
+{
+  "type": "product",
+  "fields": {
+    "image_type": "1:1 消费电子主图",
+    "frame_carrier": "纯黑吸光底",
+    "core_style_contract": "高精度产品渲染或实拍，边缘干净",
+    "subject_identity": "便携蓝牙音箱，正面微俯",
+    "material_print": "阳极铝壳体拉丝，织物网罩纹理均匀",
+    "brand_mood": "克制工业设计",
+    "lighting_color": "窄主光勾边，屏或指示灯一点冷白",
+    "color_system": "石墨灰与一点冷白",
+    "dynamic_negative_constraints": "避免科幻舱背景、液态金属、改比例、加水花"
+  }
+}

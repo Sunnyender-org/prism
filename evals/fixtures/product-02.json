@@ -1,0 +1,14 @@
+{
+  "type": "product",
+  "fields": {
+    "image_type": "1:1 鞋履电商主图",
+    "frame_carrier": "浅灰无缝背景",
+    "core_style_contract": "产品摄影，展示鞋型和材料，不lifestyle",
+    "subject_identity": "低帮皮革运动鞋，侧 45 度",
+    "material_print": "皮革纹理连续，橡胶底齿清晰，缝线可读",
+    "brand_mood": "基本款，不限量炒作",
+    "lighting_color": "双柔箱，接触阴影短",
+    "color_system": "米白皮革、本色橡胶、金属气眼",
+    "dynamic_negative_constraints": "避免变形鞋头、漂浮无阴影、街头场景、假logo特写"
+  }
+}

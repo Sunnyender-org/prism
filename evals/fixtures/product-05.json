@@ -1,0 +1,14 @@
+{
+  "type": "product",
+  "fields": {
+    "image_type": "4:5 家具产品图",
+    "frame_carrier": "白地面无缝，整椅入画",
+    "core_style_contract": "家具目录，交代结构和材料",
+    "subject_identity": "实木餐椅，四分之三视角",
+    "material_print": "木纹走向连续，藤编或布座纹理清楚",
+    "brand_mood": "耐用家居，不奢侈酒店",
+    "lighting_color": "大面积柔光，腿部有接触影",
+    "color_system": "橡木原色与米布",
+    "dynamic_negative_constraints": "避免室内整屋场景、人物入座、透视倒塌、塑料感木材"
+  }
+}

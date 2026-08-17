@@ -1,0 +1,15 @@
+{
+  "type": "illustration",
+  "fields": {
+    "image_type": "竖版彩色少女漫画插画",
+    "frame_carrier": "接近 1980–1990 赛璐璐与旧彩页",
+    "core_style_contract": "闭合深色线稿、平面固有色、一两层硬边阴影，不用大面积柔滑渐变",
+    "face_archetype": "成熟椭圆脸，细长上挑眼，克制表情",
+    "eye_design": "深色瞳，上眼睑有压力，不是萌系大眼",
+    "line_brush": "手绘感均匀线，局部腮红与小高光",
+    "clothing_material": "白色宽松裹身布，褶皱简洁",
+    "lighting_color": "均匀柔和环境光，黑发与冷白皮肤为主",
+    "face_negative_constraints": "避免圆脸大眼甜美幼态、三次元写实皮肤",
+    "dynamic_negative_constraints": "避免真人摄影、3D 渲染、现代手游立绘、背景喧宾夺主、全身站立"
+  }
+}

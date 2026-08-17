@@ -1,0 +1,19 @@
+{
+  "type": "portrait",
+  "source_image": "evals/hard-set/H3-elevator-pose.png",
+  "fields": {
+    "image_type": "竖版 9:16 双人电梯间时尚片",
+    "frame_carrier": "金属厢体反射，前景玻璃器皿虚成光斑",
+    "core_style_contract": "冷暖逆光拥抱构图，雾感高光，像夜店卫生间或电梯镜面，不是棚拍平光",
+    "face_archetype": "左金棕长直发齐刘海，右侧深褐湿发挽起；都是成年窄脸，对视而非看镜头",
+    "face_shape": "尖下颌，口红湿亮，不做幼态",
+    "eye_design": "眼线清晰，互看对方嘴唇附近，眼神近距离",
+    "body_silhouette": "左微前倾，右靠金属墙，腰线贴墙形成竖线",
+    "pose_expression": "左臂抬起手掌贴墙在右脸旁，右手可扶墙；右臂自然下垂；身体几乎相贴但不接吻",
+    "clothing_material": "左白吊带背心加雾霾蓝短袖针织外套、层层薄纱蓝短裙、珍珠腰链；右白褶皱抹胸、半透白开衫、白百褶短裙、同款腰链",
+    "lighting_color": "右后方强逆光爆星芒，肤色冷白带暖边，金属墙拉出高光条",
+    "clarity_occlusion": "两张脸和腰链最清；前景玻璃高光大面积虚；画面中部可有细小英文水印",
+    "face_negative_constraints": "避免看镜头自拍、三人、男性、卡通大眼",
+    "dynamic_negative_constraints": "避免白天卧室、全身鞋特写、解开双人关系改成单人、做成日系清纯或古装"
+  }
+}

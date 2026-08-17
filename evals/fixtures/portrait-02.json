@@ -1,0 +1,18 @@
+{
+  "type": "portrait",
+  "fields": {
+    "image_type": "横版 3:2 窗边半身写真",
+    "frame_carrier": "35mm 胶片感，浅景深",
+    "core_style_contract": "日间散射、低对比、真实皮肤纹理，不是美颜闪光",
+    "face_archetype": "成年长脸，眉眼放松，视线看向窗外",
+    "face_shape": "下颌线清楚，不做尖脸滤镜",
+    "eye_design": "双眼皮自然厚度，高光小而偏上",
+    "body_silhouette": "坐姿含胸但肩线平",
+    "pose_expression": "双手捧陶瓷杯，杯沿靠近下唇但不挡住嘴",
+    "clothing_material": "粗针织开衫，袖口堆在手腕",
+    "lighting_color": "左侧窗光，室内暗部偏青绿",
+    "clarity_occlusion": "眼睛和杯沿最清，窗帘纱略过曝",
+    "face_negative_constraints": "避免网红大眼、假睫毛、牙齿广告笑",
+    "dynamic_negative_constraints": "避免夜景霓虹、棚拍柔箱、全身站立"
+  }
+}

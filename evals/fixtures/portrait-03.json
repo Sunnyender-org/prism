@@ -1,0 +1,18 @@
+{
+  "type": "portrait",
+  "fields": {
+    "image_type": "竖版 2:3 时装仰拍",
+    "frame_carrier": "数码相机，低机位近距离",
+    "core_style_contract": "冷灰时装写真，疏离，不棚拍甜美",
+    "face_archetype": "齐刘海成年女性，半垂眼向下看镜头",
+    "face_shape": "窄下颌，红唇轻抿",
+    "eye_design": "眼线压低，不做圆瞳孔",
+    "body_silhouette": "细长腿作为前景，近大远小",
+    "pose_expression": "坐沙发沿，一手后撑，一手横在胸前",
+    "clothing_material": "浅灰蕾丝高领贴身长袖，亮面一字带细高跟",
+    "lighting_color": "室内灰紫低饱和，肤色带粉高光",
+    "clarity_occlusion": "鞋带和脸清楚，背景墙画虚",
+    "face_negative_constraints": "避免幼态圆脸、开口笑、美瞳放大",
+    "dynamic_negative_constraints": "避免腿融合、鞋带错乱、低机位被拉成平视、动漫化"
+  }
+}

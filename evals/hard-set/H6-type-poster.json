@@ -1,0 +1,16 @@
+{
+  "type": "poster",
+  "source_image": "evals/hard-set/H6-type-poster.jpg",
+  "source_url": "https://x.com/MANISH1027512/status/2080146746211262761",
+  "fields": {
+    "image_type": "竖版 2:3 摄影拼贴海报，人像加多层文字",
+    "frame_carrier": "低饱和灰阶复印扫描，颗粒和折痕",
+    "core_style_contract": "整张脸压进黑白灰，只给眼睛一条彩色窗口；标题和口号是结构不是装饰",
+    "brand_mood": "VSC 杂志封面，秘密、窥视、都市冷感",
+    "typography": "顶栏超大宽体标题 VIBESHOTCLUB 半透明压在头发上；中部眼框外白细边；底部两行粗体 ONLY THE EYES / KNOW THE TRUTH；更小说明句在口号下；左下斜体小句，右侧竖排小字和条码",
+    "composition_rhythm": "上 25% 标题，中部脸，眼部窄矩形窗口横切，下 25% 口号，右下角深色樱桃作点缀",
+    "color_system": "全局灰阶，唯二彩色是眼妆青绿与樱桃暗红",
+    "clarity_occlusion": "彩色眼窗和指尖贴唇最清，标题可有做旧破损但必须可认",
+    "dynamic_negative_constraints": "避免全图彩色美妆头像、去掉文字、窗口变成无意义空框、忽略指尖贴唇、做成普通文字排版海报"
+  }
+}

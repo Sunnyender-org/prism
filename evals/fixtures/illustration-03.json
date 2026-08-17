@@ -1,0 +1,15 @@
+{
+  "type": "illustration",
+  "fields": {
+    "image_type": "方形像素插画",
+    "frame_carrier": "限 32 色，可见像素栅",
+    "core_style_contract": "90 年代掌机像素，硬边缘，无滤镜模糊",
+    "face_archetype": "简化侧脸，块面五官",
+    "eye_design": "单像素高光，不画睫毛",
+    "line_brush": "无矢量线，只有色块",
+    "clothing_material": "格子斗篷用抖动表现",
+    "lighting_color": "顶光两档，暗部抖点",
+    "face_negative_constraints": "避免高模写实脸",
+    "dynamic_negative_constraints": "避免照片贴图、平滑渐变、现代手游厚涂"
+  }
+}

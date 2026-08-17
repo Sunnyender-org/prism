@@ -1,0 +1,14 @@
+{
+  "type": "poster",
+  "fields": {
+    "image_type": "横版 16:9 演出海报",
+    "frame_carrier": "丝网印刷感，套色轻微错位",
+    "core_style_contract": "高反差双色印刷，不是照片滤镜",
+    "brand_mood": "地下演出，粗暴直接",
+    "typography": "乐队名占上方三分之一，日期地点小字贴底边",
+    "composition_rhythm": "中心剪影人压过标题负空间",
+    "color_system": "只有黑与荧光橙，无第三色",
+    "clarity_occlusion": "字体边缘毛刺清楚，照片细节被阈值吃掉",
+    "dynamic_negative_constraints": "避免全彩摄影、渐变天空、多余第三种颜色、奢侈品排版"
+  }
+}

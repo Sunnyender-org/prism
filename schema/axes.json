@@ -1,0 +1,9 @@
+{
+  "axes": [
+    { "id": "style", "zh": "风格" },
+    { "id": "subject", "zh": "主体" },
+    { "id": "composition", "zh": "构图" },
+    { "id": "color", "zh": "色彩" },
+    { "id": "motion", "zh": "动态" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "poster",
+  "fields": {
+    "image_type": "竖版电影标题卡",
+    "frame_carrier": "宽银幕画幅内的静帧海报",
+    "core_style_contract": "70年代摄影海报，颗粒、压暗四角",
+    "brand_mood": "疏离公路片",
+    "typography": "片名全大写居下三分，字体细长",
+    "composition_rhythm": "地平线在上三分，人物小点在路中央",
+    "color_system": "褪色黄绿与尘土棕",
+    "clarity_occlusion": "片名最清，远景人物几乎剪影",
+    "dynamic_negative_constraints": "避免现代超级英雄海报、高饱和日落、大头人像挡字"
+  }
+}

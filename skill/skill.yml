@@ -1,0 +1,31 @@
+name: prism
+display_name: 棱镜
+version: 0.2.0
+description: 把参考图拆成可复用的视觉合同，并编译成 GPT Image 自然语言提示词。
+license: Apache-2.0
+runtime: workbuddy
+tier: free
+install: local
+hosts:
+  - codex
+  - grok
+  - workbuddy
+  - skillhub
+inputs:
+  - name: image
+    required: false
+    note: 无图时只编译已有 JSON fixture
+  - name: type
+    required: false
+    enum: [portrait, poster, product, illustration, scene, generic]
+outputs:
+  - name: prompt
+    format: natural-language
+  - name: cards
+    format: jsonl
+forbidden_claims:
+  - enterprise-shared-vault
+  - brand-lock
+  - mcp-business-system
+  - audit-log
+  - skillhub-published

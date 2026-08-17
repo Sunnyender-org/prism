@@ -1,0 +1,18 @@
+{
+  "type": "portrait",
+  "fields": {
+    "image_type": "竖版 9:16 真人摄影半身",
+    "frame_carrier": "手机近景，闪光直打",
+    "core_style_contract": "低饱和冷调纪实，保留毛孔和轻微过曝，不是棚拍网红脸",
+    "face_archetype": "成年窄脸，细长眼，上眼睑略压，表情克制",
+    "face_shape": "尖下巴，鼻梁明确",
+    "eye_design": "浅色瞳，眼神对镜头但不开大眼萌",
+    "body_silhouette": "肩颈细，锁骨可见",
+    "pose_expression": "身体微侧，一手轻触下颌",
+    "clothing_material": "薄纱叠层，褶皱透光",
+    "lighting_color": "正面近闪，金属饰件锐反光，暗部有噪点",
+    "clarity_occlusion": "脸和手最亮最清，背景纯黑压暗",
+    "face_negative_constraints": "避免大眼圆脸幼态 galgame 脸、过度磨皮、微笑网红相",
+    "dynamic_negative_constraints": "避免全身站姿、彩色渐变背景、动漫或 3D 质感"
+  }
+}

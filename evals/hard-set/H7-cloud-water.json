@@ -1,0 +1,16 @@
+{
+  "type": "product",
+  "source_image": "evals/hard-set/H7-cloud-water.jpg",
+  "source_url": "https://x.com/MANISH1027512/status/2086741506296369545",
+  "fields": {
+    "image_type": "竖版 9:16 饮用水广告产品图",
+    "frame_carrier": "商业合成：瓶内空间与背景是同一片积云，不是棚拍静物",
+    "core_style_contract": "云朵矿泉水：瓶子本身就是天空。瓶内白云与瓶外白云无缝连续，透过玻璃只看到云，没有液面、气泡或蓝色药水",
+    "subject_identity": "长颈透明玻璃瓶，银白细螺纹盖。瓶身中央一条浅色窄标，只印两行英文 CLOUD WATER，字下可有淡远山；禁止中文品牌、椭圆大标、YUNDUO 或奖章标",
+    "material_print": "玻璃高光是连续细条，瓶脚浅水镜面带少量飞溅；CLOUD WATER 必须清晰可读",
+    "brand_mood": "纯净、轻盈、自然主义高端水",
+    "lighting_color": "柔和天光，瓶缘一条白高光，水面倒影向下拉，整体高调",
+    "color_system": "云白为主，只有极浅冰蓝，无暖黄、无晴空纯蓝衬底",
+    "dynamic_negative_constraints": "避免可乐罐、深色酒液、室内厨房、手持模特、水果道具、标签糊掉、瓶内装水、瓶子立在蓝天下的普通产品照、中文商品名"
+  }
+}

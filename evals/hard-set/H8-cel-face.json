@@ -1,0 +1,18 @@
+{
+  "type": "illustration",
+  "source_image": "evals/hard-set/H8-cel-face.jpg",
+  "source_url": "https://x.com/MANISH1027512/status/2086439731823530268",
+  "fields": {
+    "image_type": "竖版 2:3 日系赛璐璐动画近景特写",
+    "frame_carrier": "干净数字动画帧，无纸纹",
+    "core_style_contract": "清晰线稿加硬边阴影；红黑高反差只作用于眼睛和暗部，不改成厚涂或萌系",
+    "face_archetype": "成年窄长脸，厚重齐刘海压额，上眼睑沉重，危险而克制，不是圆脸幼态",
+    "eye_design": "细长上挑眼，红色发亮瞳孔带十字/星形高光，禁止大圆瞳",
+    "pose_expression": "右手食指竖在唇前嘘声，指腹轻压下唇；不比心、不遮眼、不拿开",
+    "line_brush": "均匀闭合线，赛璐璐平涂，阴影只有一层硬边，禁止厚涂笔触和柔滑渐变",
+    "clothing_material": "红黑校服外套、白衬衫黑领带只在下缘露出",
+    "lighting_color": "正面偏暖光照脸心，黑发和颊侧进暗部，红瞳是最亮焦点",
+    "face_negative_constraints": "避免 galgame 大眼圆脸甜美幼态、三次元 COS、3D 塑料皮肤",
+    "dynamic_negative_constraints": "避免全身站桩、手游厚涂、柔焦写真、比心、去掉嘘手"
+  }
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+vault/cards.jsonl
+.DS_Store
+.env
+evals/renders/
+evals/decodes/
+evals/hard-set/*.png
+evals/hard-set/*.jpg
+design/
+design-demos/

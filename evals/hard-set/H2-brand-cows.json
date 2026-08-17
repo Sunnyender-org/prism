@@ -1,0 +1,16 @@
+{
+  "type": "illustration",
+  "source_image": "evals/hard-set/H2-brand-cows.png",
+  "fields": {
+    "image_type": "横版 4:3 超现实三维角色广告静帧",
+    "frame_carrier": "数字黏土/短绒 3D，略阴郁的橱窗偶戏，不是皮克斯萌宠广告",
+    "core_style_contract": "麦当劳配色的拟人黄牛店员把汉堡交给橘色长毛野牛，背景是密林，不是写实纪录片，也不是可爱卡通",
+    "face_archetype": "左侧牛脸偏人脸五官、三角眼无奈；右侧野牛脸更兽、圆眼无辜，两张脸都偏成年、略呆滞",
+    "eye_design": "左眼细长带褶近三角，右眼湿但不圆；禁止迪士尼大圆眼和星星瞳",
+    "line_brush": "无线稿，短绒毛颗粒均匀，像毛绒玩具扫描",
+    "clothing_material": "左穿红黄制服与红帽、金边口袋，左手提牛皮纸袋；汉堡芝麻包完整",
+    "lighting_color": "林间漫射绿光，主体黄橙红从背景里跳出",
+    "face_negative_constraints": "避免真人头套、迪士尼大眼、两张脸长成一样",
+    "dynamic_negative_constraints": "避免写成真牛吃草、城市街道、去掉品牌色块、写成扁平插画或写实摄影"
+  }
+}

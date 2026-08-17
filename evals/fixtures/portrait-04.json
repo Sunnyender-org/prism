@@ -1,0 +1,18 @@
+{
+  "type": "portrait",
+  "fields": {
+    "image_type": "方形 1:1 街头中近景",
+    "frame_carrier": "阴天手机广角，轻微压缩",
+    "core_style_contract": "低饱和灰雾街拍，真人纪实",
+    "face_archetype": "齐刘海中长发，回望镜头，表情欲言又止",
+    "face_shape": "暖白到象牙肤，不做瓷白磨皮",
+    "eye_design": "软视线对拍摄者，瞳孔正常大小",
+    "body_silhouette": "侧身深蹲，身体朝左",
+    "pose_expression": "一手抬起屈腕，一手下垂近地",
+    "clothing_material": "奶黄贴身针织上衣，黑底白波点短裙，中筒袜",
+    "lighting_color": "阴天散射，米灰街景",
+    "clarity_occlusion": "脸和上身清，前景虚化的手形成心形框",
+    "face_negative_constraints": "避免整容网红脸、夸张歪嘴表情包",
+    "dynamic_negative_constraints": "避免晴天金辉、棚拍、全身站姿、品牌logo特写"
+  }
+}

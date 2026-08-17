@@ -1,0 +1,19 @@
+{
+  "type": "portrait",
+  "source_image": "evals/hard-set/H1-duo-night.png",
+  "fields": {
+    "image_type": "竖版 9:16 双人夜店中近景写真",
+    "frame_carrier": "数码时尚片，星芒闪光与浅景深",
+    "core_style_contract": "夜店冷白闪光混粉调，高美颜但保留皮肤高光，不是日光街拍",
+    "face_archetype": "两位成年女性，左深棕直发、右浅褐半扎，都是窄脸厚唇，表情冷感微张",
+    "face_shape": "尖下巴，高颧骨，不做幼态圆脸",
+    "eye_design": "细长眼带粉棕眼影。硬锁视线：左边的人看画面右侧，右边的人看画面左侧，交叉对视；禁止两人同时看镜头",
+    "body_silhouette": "坐姿并排，右肩前倾，左肩被右手搭住",
+    "pose_expression": "左边的人右手黑甲搭在右边人粉衣肩上；两人上身靠近但不接吻、不看镜头",
+    "clothing_material": "左白短袖露脐T恤可有暗星纹，左肩粉包，灰褐格纹短裙白袜；右白蕾丝吊带配超长粉毛绒开衫和同格短裙，腰链金币坠",
+    "lighting_color": "机顶冷闪打脸，背景霓虹虚成星芒，粉色衣物吃暖光",
+    "clarity_occlusion": "两张脸和搭肩的手最清；背景酒瓶花束虚；底部可有小字水印但不挡脸",
+    "face_negative_constraints": "避免三人、男女混搭、大眼萌、开口大笑、五官互换、两人同时看镜头",
+    "dynamic_negative_constraints": "避免白天户外、全身站立、去掉格裙或粉开衫、做成日系清新或动漫平面"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "product",
+  "fields": {
+    "image_type": "电商主图，方形 1:1",
+    "frame_carrier": "纯白不透明底的产品抠图",
+    "core_style_contract": "目录级产品摄影，边缘干净，标签可读",
+    "subject_identity": "玻璃瓶身体护理，标签居中",
+    "material_print": "玻璃高光连续，塑料泵头哑光，标签印刷锐利",
+    "brand_mood": "冷静日用，不奢侈大片",
+    "lighting_color": "柔箱主光加接触阴影，色温中性",
+    "color_system": "白底、透明瓶、浅琥珀液体",
+    "dynamic_negative_constraints": "避免改瓶型、糊标签、加道具场景、彩虹渐变、水印"
+  }
+}

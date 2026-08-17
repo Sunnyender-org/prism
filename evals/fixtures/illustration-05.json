@@ -1,0 +1,15 @@
+{
+  "type": "illustration",
+  "fields": {
+    "image_type": "竖版扁平角色海报插画",
+    "frame_carrier": "矢量平涂",
+    "core_style_contract": "有限色平涂，几何身体，不是赛璐璐动画",
+    "face_archetype": "成年几何脸，鼻子用一块面表示",
+    "eye_design": "一线眼或小椭圆，无瞳孔高光游戏",
+    "line_brush": "无轮廓线或极细统一线宽",
+    "clothing_material": "色块表示大衣，褶皱用第二层色",
+    "lighting_color": "假想左上光，只有一档阴影",
+    "face_negative_constraints": "避免二次元大眼、写实皮肤毛孔",
+    "dynamic_negative_constraints": "避免照片拼贴、复杂透视场景、渐变网格"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "product",
+  "fields": {
+    "image_type": "3:4 食品包装立拍",
+    "frame_carrier": "木桌局部，浅景深但仍是产品图",
+    "core_style_contract": "包装必须可读的目录图，不是美食氛围大片",
+    "subject_identity": "方形纸盒茶叶，正面朝相机",
+    "material_print": "特种纸纤维可见，专色印刷套准",
+    "brand_mood": "清淡日常",
+    "lighting_color": "窗侧光，包装受光面均匀",
+    "color_system": "米卡其盒、墨绿字",
+    "dynamic_negative_constraints": "避免蒸汽美食、手入画、改包装文案、撒茶叶满桌"
+  }
+}

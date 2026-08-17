@@ -1,0 +1,15 @@
+{
+  "type": "illustration",
+  "fields": {
+    "image_type": "横版绘本跨页",
+    "frame_carrier": "水彩纸，装订线在中央",
+    "core_style_contract": "儿童绘本水彩，友好但不萌化到贴纸",
+    "face_archetype": "圆头儿童比例，表情温和",
+    "eye_design": "小点睛，不画星星瞳",
+    "line_brush": "浅褐轮廓，水彩溢出线外少许",
+    "clothing_material": "黄雨衣塑料反光用淡彩暗示",
+    "lighting_color": "阴天均匀，雨滴透明",
+    "face_negative_constraints": "避免少年漫美型、写实儿童照片",
+    "dynamic_negative_constraints": "避免恐怖对比、3D 动画电影灯光、文字气泡占满"
+  }
+}

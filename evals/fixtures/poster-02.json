@@ -1,0 +1,14 @@
+{
+  "type": "poster",
+  "fields": {
+    "image_type": "竖版 3:4 杂志封面",
+    "frame_carrier": "铜版纸扫描，轻微网点",
+    "core_style_contract": "实验性杂志封面，故障拼贴，极简灰白商业视觉",
+    "brand_mood": "未来科技、理性、适合眼镜或思想活动",
+    "typography": "短标题横向压在人像中部，必须可读",
+    "composition_rhythm": "左侧真实侧脸稳定，右侧重复切片制造数字节奏",
+    "color_system": "浅灰白底、深棕肤、黑须、白字，低饱和高对比",
+    "clarity_occlusion": "左上面部和眼镜高清，右半被像素切片和半透明重影覆盖",
+    "dynamic_negative_constraints": "避免写成普通写真、去掉文字、做成光滑商业 3D"
+  }
+}

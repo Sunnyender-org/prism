@@ -1,0 +1,14 @@
+{
+  "type": "poster",
+  "fields": {
+    "image_type": "方形信息图海报",
+    "frame_carrier": "平板矢量印刷",
+    "core_style_contract": "课堂讲义式信息图，白底、图标统一线宽",
+    "brand_mood": "教育、冷静、可扫描",
+    "typography": "标题一句，步骤用短标签，禁止假公式",
+    "composition_rhythm": "上标题、中流程箭头、下注释",
+    "color_system": "白、墨黑、一处Muted蓝强调",
+    "clarity_occlusion": "全部文字必须可读，无装饰遮挡",
+    "dynamic_negative_constraints": "避免插画故事场景、手写潦草、假引用、彩虹图标"
+  }
+}

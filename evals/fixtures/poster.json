@@ -1,0 +1,14 @@
+{
+  "type": "poster",
+  "fields": {
+    "image_type": "竖版海报 / 图形设计，约 4:5，居中 3D 角色头像加粗标题",
+    "frame_carrier": "off-white 印刷纸，标本册式排版",
+    "core_style_contract": "当代 AI 表情包海报语言混复古标本字体，玩具感 3D 头，不是豪华商业大片",
+    "brand_mood": "玩味、概念 zine，干净但不精修到奢侈品目录",
+    "typography": "顶部大红无衬线粗标题，副标题小字压在头侧，标题必须完整可读",
+    "composition_rhythm": "上半厚重字块对下半圆形头；两侧负空间干净",
+    "color_system": "暖灰白底、饱和红字、桃棕肤、亮黑发；对比主要来自红字与黑发",
+    "clarity_occlusion": "标题和头最锐；纸面有半色调颗粒；五官保持清晰",
+    "dynamic_negative_constraints": "避免写成写实肖像、全身角色、标题挡脸、丢掉印刷颗粒、做成干净电商 3D 渲染"
+  }
+}
