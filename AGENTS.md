@@ -1,14 +1,12 @@
-# Prism
+# BF Labs Agent Bootstrap
 
-视觉拆图内核。对外名 Prism / 棱镜。不要在 skill id、上架名或 README 标题里使用 Viko。
+This file is intentionally thin and shared across BF Labs repositories.
 
-权威文件：
+1. Read `BFLABS.md` completely before non-trivial work.
+2. If `PROJECT_RULES.md` exists, read it completely for repository-specific constraints.
+3. Use `README.md` for product and setup orientation.
+4. Use `docs/INDEX.md` when it exists and the owning module, specification, test, or runbook is not already known.
+5. Use the active issue, specification, task packet, and pull request for change-specific scope and acceptance.
 
-- 分工：`docs/ownership.md`
-- 计划：`docs/prism-v0-plan.md`
-- 验收：`docs/prism-acceptance.md`
-- 切分：`docs/tiers.md`
-- 合同：`skill/SKILL.md`
-- 字段：`schema/`
+Do not expand this file into another engineering playbook. Team-wide rules belong in `BFLABS.md`; repository-specific rules belong in `PROJECT_RULES.md`.
 
-本地检查：`python3 scripts/prism.py check`
